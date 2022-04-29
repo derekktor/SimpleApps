@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{CBCBD7F9-4CE5-4F45-A0A9-988AA4983540}|Default">
   <MonoDevelop.Ide.ItemProperties.lab1-SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab1-SumNumbers/Program.cs">
-    <Files>
-      <File FileName="lab1-SumNumbers/Program.cs" Line="11" Column="68" />
-      <File FileName="lab1-SumNumbers/MyNumber.cs" Line="43" Column="39" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="lab1-SumNumbers" expanded="True" selected="True">
-            <Node name="lab1-SumNumbers" expanded="True" />
+          <Node name="lab1-SumNumbers" expanded="True">
+            <Node name="lab1-SumNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Projects/lab1-SumNumbers/lab1-SumNumbers/lab1-SumNumbers.csproj",
+      "projectUniqueName": "/Users/mac/Projects/SimpleApps/SimpleApps/lab1/SumNumbers/lab1-SumNumbers/lab1-SumNumbers.csproj",
       "projectName": "lab1-SumNumbers",
-      "projectPath": "/Users/mac/Projects/lab1-SumNumbers/lab1-SumNumbers/lab1-SumNumbers.csproj",
+      "projectPath": "/Users/mac/Projects/SimpleApps/SimpleApps/lab1/SumNumbers/lab1-SumNumbers/lab1-SumNumbers.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Projects/lab1-SumNumbers/lab1-SumNumbers/obj/",
+      "outputPath": "/Users/mac/Projects/SimpleApps/SimpleApps/lab1/SumNumbers/lab1-SumNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.config/NuGet/NuGet.Config"

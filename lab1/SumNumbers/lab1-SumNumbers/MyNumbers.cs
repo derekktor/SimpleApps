@@ -34,8 +34,6 @@ namespace lab1_SumNumbers
 
         public string getInfo()
         {
-            Console.WriteLine("HELLLOOOOO");
-
             string result = "";
 
             result += "Length: " + getLength() + "\n";
