@@ -1,0 +1,13 @@
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/bin/Debug/netcoreapp3.1/lab1-LeapYear.deps.json
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/bin/Debug/netcoreapp3.1/lab1-LeapYear.runtimeconfig.json
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/bin/Debug/netcoreapp3.1/lab1-LeapYear.runtimeconfig.dev.json
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/bin/Debug/netcoreapp3.1/lab1-LeapYear.dll
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/bin/Debug/netcoreapp3.1/lab1-LeapYear.pdb
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.csproj.AssemblyReference.cache
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.AssemblyInfoInputs.cache
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.AssemblyInfo.cs
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.dll
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.pdb
+/Users/mac/Projects/lab1-LeapYear/lab1-LeapYear/obj/Debug/netcoreapp3.1/lab1-LeapYear.genruntimeconfig.cache
