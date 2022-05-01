@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{B0114183-0033-49C9-AF73-51E43DCD9CFF}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MaxWeightLoss/Program.cs">
     <Files>
-      <File FileName="MaxWeightLoss/Program.cs" Line="20" Column="1" />
-      <File FileName="MaxWeightLoss/WeightTracker.cs" Line="10" Column="32" />
+      <File FileName="MaxWeightLoss/Program.cs" Line="13" Column="37" />
+      <File FileName="MaxWeightLoss/WeightTracker.cs" Line="26" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MaxWeightLoss" expanded="True">
             <Node name="MaxWeightLoss" expanded="True">
+              <Node name="inputs" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
