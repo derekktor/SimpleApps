@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{064408E8-BAFF-488E-82D7-E8971FB7122F}|Default">
-  <MonoDevelop.Ide.ItemProperties.TextAnalysis FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TextAnalysis PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TextAnalysis/Program.cs">
     <Files>
-      <File FileName="TextAnalysis/Program.cs" Line="9" Column="47" />
+      <File FileName="TextAnalysis/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

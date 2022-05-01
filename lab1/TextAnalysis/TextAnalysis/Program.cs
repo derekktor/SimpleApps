@@ -10,20 +10,29 @@ namespace TextAnalysis
             string input = Console.ReadLine();
 
             List<char> letters = new List<char>();
+            Dictionary<char, int> lettersDict = new Dictionary<char, int>();
 
-            foreach (char c in input)
+            lettersDict = GetDict(input, letters);
+            GetDictInfo(lettersDict);
+
+        }
+
+        public static Dictionary<char, int> GetDict(string input, List<char> letters)
+        {
+            GetUniqueLetters(input, letters);
+            return CountLetters(input, letters);
+        }
+
+        public static void GetDictInfo(Dictionary<char, int> lettersDict)
+        {
+            foreach (var letter in lettersDict)
             {
-                if (Char.IsWhiteSpace(c))
-                {
-                    continue;
-                }
-
-                if (!letters.Contains(c))
-                {
-                    letters.Add(c);
-                }
+                Console.WriteLine(letter);
             }
+        }
 
+        public static Dictionary<char, int> CountLetters(string input, List<char> letters)
+        {
             Dictionary<char, int> lettersDict = new Dictionary<char, int>();
 
             foreach (char letter in letters)
@@ -39,11 +48,23 @@ namespace TextAnalysis
                 lettersDict.Add(letter, count);
             }
 
-            foreach (var letter in lettersDict)
+            return lettersDict;
+        }
+
+        public static void GetUniqueLetters(string input, List<char> letters)
+        {
+            foreach (char c in input)
             {
-                Console.WriteLine(letter);
+                if (Char.IsWhiteSpace(c))
+                {
+                    continue;
+                }
+
+                if (!letters.Contains(c))
+                {
+                    letters.Add(c);
+                }
             }
-            
         }
     }
 }
