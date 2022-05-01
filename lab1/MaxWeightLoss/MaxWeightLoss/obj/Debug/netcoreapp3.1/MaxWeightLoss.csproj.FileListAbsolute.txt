@@ -1,0 +1,13 @@
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/bin/Debug/netcoreapp3.1/MaxWeightLoss.deps.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/bin/Debug/netcoreapp3.1/MaxWeightLoss.runtimeconfig.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/bin/Debug/netcoreapp3.1/MaxWeightLoss.runtimeconfig.dev.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/bin/Debug/netcoreapp3.1/MaxWeightLoss.dll
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/bin/Debug/netcoreapp3.1/MaxWeightLoss.pdb
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.csproj.AssemblyReference.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.AssemblyInfoInputs.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.AssemblyInfo.cs
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.dll
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.pdb
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/MaxWeightLoss/MaxWeightLoss/obj/Debug/netcoreapp3.1/MaxWeightLoss.genruntimeconfig.cache

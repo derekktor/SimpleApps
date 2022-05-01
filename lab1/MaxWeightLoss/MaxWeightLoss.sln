@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxWeightLoss", "MaxWeightLoss\MaxWeightLoss.csproj", "{B0114183-0033-49C9-AF73-51E43DCD9CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0114183-0033-49C9-AF73-51E43DCD9CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0114183-0033-49C9-AF73-51E43DCD9CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0114183-0033-49C9-AF73-51E43DCD9CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0114183-0033-49C9-AF73-51E43DCD9CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6686BBC3-8F6D-423A-9305-1D62641C14BF}
+	EndGlobalSection
+EndGlobal

@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{0A7AD82D-53DD-4003-876A-689CAC8053FA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PermutationCheck/Program.cs">
-    <Files>
-      <File FileName="PermutationCheck/Program.cs" Line="66" Column="10" />
-      <File FileName="PermutationCheck/inputs/incorrect/bad-len.txt" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -11,9 +7,10 @@
             <Node name="PermutationCheck" expanded="True">
               <Node name="inputs" expanded="True">
                 <Node name="correct" expanded="True" />
-                <Node name="incorrect" expanded="True" />
+                <Node name="incorrect" expanded="True">
+                  <Node name="bad-len.txt" selected="True" />
+                </Node>
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

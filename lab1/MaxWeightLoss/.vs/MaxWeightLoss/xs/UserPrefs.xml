@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B0114183-0033-49C9-AF73-51E43DCD9CFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaxWeightLoss/Program.cs">
+    <Files>
+      <File FileName="MaxWeightLoss/Program.cs" Line="20" Column="1" />
+      <File FileName="MaxWeightLoss/WeightTracker.cs" Line="10" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MaxWeightLoss" expanded="True">
+            <Node name="MaxWeightLoss" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MaxWeightLoss PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
