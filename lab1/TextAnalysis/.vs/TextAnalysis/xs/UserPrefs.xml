@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{064408E8-BAFF-488E-82D7-E8971FB7122F}|Default">
+  <MonoDevelop.Ide.ItemProperties.TextAnalysis FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextAnalysis/Program.cs">
+    <Files>
+      <File FileName="TextAnalysis/Program.cs" Line="9" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextAnalysis" expanded="True">
+            <Node name="TextAnalysis" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

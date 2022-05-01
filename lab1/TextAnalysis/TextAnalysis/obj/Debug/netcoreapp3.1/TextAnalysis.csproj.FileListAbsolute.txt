@@ -1,0 +1,13 @@
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/bin/Debug/netcoreapp3.1/TextAnalysis.deps.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/bin/Debug/netcoreapp3.1/TextAnalysis.runtimeconfig.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/bin/Debug/netcoreapp3.1/TextAnalysis.runtimeconfig.dev.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/bin/Debug/netcoreapp3.1/TextAnalysis.dll
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/bin/Debug/netcoreapp3.1/TextAnalysis.pdb
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.csproj.AssemblyReference.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.AssemblyInfoInputs.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.AssemblyInfo.cs
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.dll
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.pdb
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/TextAnalysis/TextAnalysis/obj/Debug/netcoreapp3.1/TextAnalysis.genruntimeconfig.cache
