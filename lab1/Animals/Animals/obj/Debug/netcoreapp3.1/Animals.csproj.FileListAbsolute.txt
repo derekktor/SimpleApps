@@ -1,0 +1,13 @@
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.deps.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.dev.json
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.dll
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.pdb
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.csproj.AssemblyReference.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfoInputs.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfo.cs
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.dll
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.pdb
+/Users/mac/Projects/SimpleApps/SimpleApps/lab1/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.genruntimeconfig.cache
