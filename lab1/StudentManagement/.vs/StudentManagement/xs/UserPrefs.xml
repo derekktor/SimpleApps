@@ -1,16 +1,12 @@
 ﻿<Properties StartupConfiguration="{F1392077-686A-403B-A27F-0D97EBD54453}|Default">
   <MonoDevelop.Ide.ItemProperties.StudentManagement PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentManagement/Program.cs">
-    <Files>
-      <File FileName="StudentManagement/Program.cs" Line="13" Column="47" />
-      <File FileName="StudentManagement/Student.cs" Line="10" Column="23" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StudentManagement" expanded="True">
             <Node name="StudentManagement" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Student.cs" selected="True" />
             </Node>
           </Node>
         </State>
