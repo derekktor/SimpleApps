@@ -1,5 +1,5 @@
-# SimpleApps
-Assignment for classes
+# CSharp Projects
+Stemmed from a class in university(PZ2)
 
 local repo location:
-/Users/mac/Projects
+/Users/mac/Desktop/prog/c#/projects
